@@ -11,3 +11,7 @@ cp ./commands/*.md ~/.claude/commands/
 
 # Copy skills
 cp -r ./skills/* ~/.claude/skills/
+
+cp -r ./hooks ~/.claude/
+
+cp -r ./scripts ~/.claude/
